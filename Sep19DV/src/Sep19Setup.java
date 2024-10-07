@@ -54,5 +54,10 @@ public class Sep19Setup {
         System.out.println("Homeowner: " + (isHome ? "Yes" : "No"));
 //* I simply just printed all the options i wanted to bu just println and adding the amount os it can display
         scanner.close();
+	//* during this section Which is the section addition to the code we will
+	//* we will be adding a chart to compare the amount of someones salary to 
+	//* how much they are allowed to spend on the on a house by giving them a net price
+	//*$600,000 for every $200,000 they make or a conversion rate of .66
+	    
     }
 }
